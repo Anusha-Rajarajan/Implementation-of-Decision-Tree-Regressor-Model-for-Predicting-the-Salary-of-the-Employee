@@ -52,6 +52,7 @@ dt.predict([[5,6]])
 ![output](./c1.png)
 ### null values
 ![output](./c2.png)
+
 ![output](./c3.png)
 ### applying label encoder
 ![output](./c4.png)
